@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "@keyv/mongo": "^2.1.6",
+        "@keyv/sqlite": "^3.5.3",
+        "discord.js": "^13.10.3",
+        "dotenv": "^16.0.0",
+        "fs": "^0.0.1-security",
+        "keyv": "^4.5.0"
+    }
+}
